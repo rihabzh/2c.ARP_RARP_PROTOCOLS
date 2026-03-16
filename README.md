@@ -55,7 +55,7 @@ while True:
     print("MAC Address:", mac)
 ```
 ## OUPUT - ARP
-
+![alt text](<Screenshot 2026-03-16 091624.png>)
 
 ## PROGRAM - RARP
 
